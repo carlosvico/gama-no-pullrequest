@@ -1,20 +1,18 @@
 # Desafio Gama Pullrequest
+## Atividades do Projeto
+#### - FORK do projeto
 
-## Faça o FORK deste projeto
+#### -clone do projeto realizado na conta
 
-### Faça o Clone do projeto em sua conta
+#### -iniciar BRANCH  em "gama/"
 
-### Cria uma BRANCH iniciada em "gama/"
+#### -alterado arquivo README.MD  com as impressões sobre o curso
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+#### -commitar as altetações
 
-##### Faça o commit da sua altetação
+#### -Executado o `git push --set-upstream <remote> <branch>`
 
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
+#### -abrir um PullRequest com alterações
 
 O que estou achando do curso ?
 
